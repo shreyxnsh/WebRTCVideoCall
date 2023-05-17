@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "293948334017-815618h6gp5f2sso129bu8jbg5kcpcd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreyxnsh.webrtcvideocall",
+            "certificate_hash": "3ff79e3dacdca4b6f2ac494ff0132003484bb834"
+          }
+        },
+        {
           "client_id": "293948334017-eo55a6tlco60jdn4vfeekfl5aeho1s69.apps.googleusercontent.com",
           "client_type": 3
         }
